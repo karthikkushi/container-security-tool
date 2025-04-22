@@ -66,7 +66,6 @@ This problem involves creating a simple GoLang web application that displays the
 
 #### 📁 Project Structure
 
-```
 go-date-time-app/
 ├── Dockerfile                 # Container instructions
 ├── go.mod                     # Go module file
